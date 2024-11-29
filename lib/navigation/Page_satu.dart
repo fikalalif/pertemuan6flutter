@@ -7,7 +7,7 @@ class PageSatu extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Rafli Negro")),
+      appBar: AppBar(title: Text("Rafli anj Negro")),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
